@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "afk_pinguin",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "mc_penguinsmp.aternos.me:43899",
-    "port": 43899,
+    "ip": "MCpinguinsmp.aternos.me:41215",
+    "port": 41215,
     "version": "1.21.11",
     "try-creative": false
   },
